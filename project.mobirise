@@ -49,7 +49,7 @@
     "screenshot": "screenshot.png",
     "publishChangesOnly": false,
     "chatbutton": {
-      "phone": "+12345678901",
+      "phone": "+972546385627",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -65,7 +65,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/bezol-128x131.png",
-    "mbrsiteDomain": "iy6pbnrogz",
+    "mbrsiteDomain": "yd4fefnres",
     "cssOptimize": false,
     "lazyLoad": false,
     "lazyType": "nothing",
